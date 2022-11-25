@@ -7,7 +7,6 @@ Full Stack Web Developer
 I am an enthusiastic full-stack web developer based in India, with a rich experience in web development.
 
 * 🌍  I'm based in Mumbai, Maharashtra, India
-* 🖥️  See my portfolio at [MyPortfolio](http://aldrebi.com)
 * ✉️  You can contact me at [chiplunkarsagar18@gmail.com](mailto:chiplunkarsagar18@gmail.com)
 * 🧠  I'm learning Data Structures & Algorithms
 * 🤝  I'm open to collaborating on Projects
